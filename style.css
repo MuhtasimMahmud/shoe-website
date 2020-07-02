@@ -1,0 +1,52 @@
+.divide-width img{
+    height: 150px;
+    width: 250px;
+    padding: 5px 20px 35px 10px;
+}
+.box1{
+    border-radius: 8px;
+    width: 15%;
+    float: left;
+    height: 250px;
+    width: 280px;
+    background-color: white;
+    box-shadow: 10px 10px 40px gray;
+    margin-top: 350px;
+    margin-left: 250px;
+}
+.box2{
+    border-radius: 8px;
+    width: 15%;
+    float: left;
+    height: 250px;
+    width: 280px;
+    background-color: white;
+    box-shadow: 10px 10px 40px gray;
+    margin-top: 350px;
+    margin-left: 20px;
+}
+.box3{
+    border-radius: 8px;
+    width: 15%;
+    float: left;
+    height: 250px;
+    width: 280px;
+    background-color: white;
+    box-shadow: 10px 10px 40px gray;
+    margin-top: 350px;
+    margin-left: 20px;
+}
+.button{
+    margin-left: 97px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+}
+a:hover{
+    color: #255784;
+    background: #2196f3;
+    box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
+    transition-delay: 1s;
+}
